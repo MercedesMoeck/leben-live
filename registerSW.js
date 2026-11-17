@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/leben-live/sw.js', { scope: '/leben-live/' })})}

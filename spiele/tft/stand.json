@@ -1,0 +1,13 @@
+{
+  "datum": "2026-11-13",
+  "quelle": "CommunityDragon (raw.communitydragon.org, cdragon/tft); Symbole zusätzlich Data Dragon (ddragon.leagueoflegends.com)",
+  "set": 18,
+  "sprache": "en",
+  "einheiten": 74,
+  "eigenschaften": 36,
+  "items": 137,
+  "symboleFehlen": 1,
+  "ersatzSymbole": [],
+  "augments": 418,
+  "hinweis": "Teamfight Tactics ist eine Marke von Riot Games. Nicht von Riot unterstützt. Zahlen in Beschreibungen, die die Quelle nicht mitliefert, stehen als X. Symbole der Items und Augments: Data Dragon (Riot Games) und CommunityDragon. Meta-Einstufungen stammen nicht aus dieser Quelle (siehe meta.json)."
+}
